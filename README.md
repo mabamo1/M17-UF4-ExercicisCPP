@@ -12,6 +12,7 @@ Repositori corresponent als exercicis del [Repte] de M17-UF2.
 
 ## Comentaris sobre el Repte
 En aquest repositori es troba la carpeta [Debug] on hi ha l'executable compilat que mostra tot el que va passant durant l'execució de les instruccions en el codi.
+
 Si es fa l'importació dels fitxers .cpp i .h en el Visual Studio de Microsoft, al moment d'executar el programa en mode debug, es podrà observar que van passant tots els events que els exercicis demanen.
 
 ## Sobre el creador
